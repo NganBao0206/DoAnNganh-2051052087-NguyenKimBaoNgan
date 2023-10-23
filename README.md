@@ -28,9 +28,4 @@ npm install
 npm run build
 ```
 
-5. Quay về folder backend 
-```bash
-cd ../../..
-```
-
-6. Chạy file OupiaApplication.java ở /src/main/java/com/pn/oupia/
+5. Chạy file OupiaApplication.java ở /src/main/java/com/pn/oupia/
